@@ -1,0 +1,19 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tailwindcss -i ./views/tailwindcss/tailwindcss.css -o ./views/styles.css",
+    "dev": "tailwindcss -i ./views/tailwindcss/tailwindcss.css -o ./views/styles.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  },
+  "dependencies": {
+    "tailwind": "^4.0.0"
+  }
+}
