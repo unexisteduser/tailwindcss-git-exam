@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SkolBukol</title>
+  <title>SkolBukol Elementary School</title>
   <link rel="stylesheet" type="text/css" href="styles.css">
   <script src="https://cdn.tailwindcss.com"></script>
   <link rel="icon" type="image/png" href="../views/img/children.png" class="rounded-full">
