@@ -48,7 +48,7 @@
     <div class="w-full bg-fixed bg-cover bg-center" style="height:50rem; background-image: url(img/skolbukol.jpg);">
         <div class="flex items-center justify-center h-full w-full bg-gray-900 bg-opacity-50 ">
             <div class="text-center">
-                <h1 class="text-white text-2xl font-semibold uppercase md:text-6xl lg:text-8xl">Skol Bukol</h1>
+                <h1 class="text-white text-2xl font-semibold uppercase md:text-6xl lg:text-8xl">Skol Bukol Elementary School</h1>
                 
             </div>
         </div>
